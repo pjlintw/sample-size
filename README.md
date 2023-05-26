@@ -1,9 +1,6 @@
 # Revisiting Sample Size Determination in Natural Language Understanding
 
-
-The code for replicating the experiments conducted in the ACL paper  "Revisiting Sample Size Determination in Natural Language Understanding". 
-
-Note: The official code is a work in progress.
+The official code for replicating the experiments conducted in the ACL paper  "Revisiting Sample Size Determination in Natural Language Understanding". 
 
 
 ## Installation
